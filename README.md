@@ -6,8 +6,6 @@ Highland Code is a code-optimized version of [Highland Sans](https://github.com/
 
 - Slashed zero
 - Lower, larger asterisk
-- Exaggerated braces
-- Taller, more open dollar sign
 - Larger line height
 - Regular and italic weights only
 
