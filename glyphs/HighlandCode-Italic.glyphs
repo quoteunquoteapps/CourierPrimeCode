@@ -2955,17 +2955,10 @@ unicode = 014C;
 {
 color = 6;
 glyphname = Oslash;
-lastChange = "2014-11-23 02:38:25 -0700";
+lastChange = "2014-11-23 06:03:24 -0700";
 layers = (
 {
-components = (
-{
-name = O;
-transform = "{1, 0, 0, 1, 0, 0}";
-}
-);
-layerId = UUID0;
-name = "Regular Italic";
+background = {
 paths = (
 {
 closed = 1;
@@ -2984,6 +2977,36 @@ nodes = (
 "1126 1220 OFFCURVE",
 "1086 1217 OFFCURVE",
 "1053 1179 CURVE SMOOTH"
+);
+}
+);
+};
+components = (
+{
+name = O;
+transform = "{1, 0, 0, 1, 0, 0}";
+}
+);
+layerId = UUID0;
+name = "Regular Italic";
+paths = (
+{
+closed = 1;
+nodes = (
+"82 50 LINE SMOOTH",
+"49 12 OFFCURVE",
+"58 -15 OFFCURVE",
+"94 -43 CURVE SMOOTH",
+"129 -71 OFFCURVE",
+"164 -68 OFFCURVE",
+"197 -30 CURVE SMOOTH",
+"1214 1139 LINE SMOOTH",
+"1247 1177 OFFCURVE",
+"1239 1204 OFFCURVE",
+"1204 1232 CURVE SMOOTH",
+"1169 1260 OFFCURVE",
+"1132 1257 OFFCURVE",
+"1099 1219 CURVE SMOOTH"
 );
 }
 );
@@ -8318,17 +8341,10 @@ unicode = 014D;
 {
 color = 6;
 glyphname = oslash;
-lastChange = "2014-11-23 02:38:25 -0700";
+lastChange = "2014-11-23 06:03:16 -0700";
 layers = (
 {
-components = (
-{
-name = o;
-transform = "{1, 0, 0, 1, 0, 0}";
-}
-);
-layerId = UUID0;
-name = "Regular Italic";
+background = {
 paths = (
 {
 closed = 1;
@@ -8347,6 +8363,36 @@ nodes = (
 "1142 953 OFFCURVE",
 "1103 955 OFFCURVE",
 "1064 923 CURVE SMOOTH"
+);
+}
+);
+};
+components = (
+{
+name = o;
+transform = "{1, 0, 0, 1, 0, 0}";
+}
+);
+layerId = UUID0;
+name = "Regular Italic";
+paths = (
+{
+closed = 1;
+nodes = (
+"55 81 LINE SMOOTH",
+"16 49 OFFCURVE",
+"19 22 OFFCURVE",
+"49 -13 CURVE SMOOTH",
+"79 -47 OFFCURVE",
+"112 -51 OFFCURVE",
+"151 -19 CURVE SMOOTH",
+"1193 842 LINE SMOOTH",
+"1232 874 OFFCURVE",
+"1231 902 OFFCURVE",
+"1201 937 CURVE SMOOTH",
+"1171 971 OFFCURVE",
+"1137 975 OFFCURVE",
+"1098 943 CURVE SMOOTH"
 );
 }
 );
