@@ -2,8 +2,8 @@
 <glyph name="ellipsis.alt4" format="1">
   <advance width="1228"/>
   <outline>
-    <component base="period" xOffset="-846" yOffset="-5" xScale="0.79" yScale="0.79"/>
-    <component base="period" xOffset="-166" yOffset="-5" xScale="0.79" yScale="0.79"/>
-    <component base="period" xOffset="514" yOffset="-5" xScale="0.79" yScale="0.79"/>
+    <component base="period" xOffset="-846" yOffset="-5" xScale="0.789" yScale="0.787"/>
+    <component base="period" xOffset="-166" yOffset="-5" xScale="0.789" yScale="0.787"/>
+    <component base="period" xOffset="514" yOffset="-5" xScale="0.789" yScale="0.787"/>
   </outline>
 </glyph>
