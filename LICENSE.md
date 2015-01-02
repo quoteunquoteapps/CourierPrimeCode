@@ -1,4 +1,4 @@
-Copyright (c) 2014, Quote-Unquote Apps (http://quoteunquoteapps.com), with Reserved Font Name Highland Code.
+Copyright (c) 2015, Quote-Unquote Apps (http://quoteunquoteapps.com), with Reserved Font Name Highland Code.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
 
