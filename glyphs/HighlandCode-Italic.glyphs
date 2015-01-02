@@ -24,7 +24,7 @@ name = openTypeOS2VendorID;
 value = QUQA;
 }
 );
-date = "2015-01-02 05:25:25 +0000";
+date = "2015-01-02 01:56:56 +0000";
 designer = "Alan Dague-Greene";
 designerURL = "http://basicrecipe.com";
 familyName = "Highland Code";
@@ -3310,7 +3310,7 @@ unicode = 0051;
 },
 {
 glyphname = R;
-lastChange = "2014-11-23 02:38:25 +0000";
+lastChange = "2015-01-02 01:52:54 +0000";
 layers = (
 {
 background = {
@@ -3369,54 +3369,54 @@ paths = (
 {
 closed = 1;
 nodes = (
-"425 1187 LINE SMOOTH",
-"380 1187 OFFCURVE",
-"361 1169 OFFCURVE",
-"352 1119 CURVE SMOOTH",
-"164 55 LINE SMOOTH",
-"156 9 OFFCURVE",
-"171 -10 OFFCURVE",
-"227 -10 CURVE SMOOTH",
-"229 -10 LINE SMOOTH",
-"282 -10 OFFCURVE",
-"306 9 OFFCURVE",
-"314 55 CURVE SMOOTH",
-"388 473 LINE",
-"687 473 LINE",
-"968 520 OFFCURVE",
-"1104 672 OFFCURVE",
-"1104 888 CURVE SMOOTH",
-"1104 1065 OFFCURVE",
-"971 1187 OFFCURVE",
-"730 1187 CURVE SMOOTH"
+"435 1187 LINE SMOOTH",
+"390 1187 OFFCURVE",
+"371 1169 OFFCURVE",
+"362 1119 CURVE SMOOTH",
+"174 55 LINE SMOOTH",
+"166 9 OFFCURVE",
+"181 -10 OFFCURVE",
+"237 -10 CURVE SMOOTH",
+"239 -10 LINE SMOOTH",
+"292 -10 OFFCURVE",
+"316 9 OFFCURVE",
+"324 55 CURVE SMOOTH",
+"398 473 LINE",
+"697 473 LINE",
+"978 520 OFFCURVE",
+"1114 672 OFFCURVE",
+"1114 888 CURVE SMOOTH",
+"1114 1065 OFFCURVE",
+"981 1187 OFFCURVE",
+"740 1187 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"613 487 LINE",
-"838 14 LINE SMOOTH",
-"854 -19 OFFCURVE",
-"877 -23 OFFCURVE",
-"929 0 CURVE SMOOTH",
-"981 23 OFFCURVE",
-"987 47 OFFCURVE",
-"968 86 CURVE SMOOTH",
-"768 502 LINE"
+"623 487 LINE",
+"848 14 LINE SMOOTH",
+"864 -19 OFFCURVE",
+"887 -23 OFFCURVE",
+"939 0 CURVE SMOOTH",
+"991 23 OFFCURVE",
+"997 47 OFFCURVE",
+"978 86 CURVE SMOOTH",
+"778 502 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"864 1043 OFFCURVE",
-"950 982 OFFCURVE",
-"950 872 CURVE SMOOTH",
-"950 715 OFFCURVE",
-"839 617 OFFCURVE",
-"621 617 CURVE SMOOTH",
-"413 617 LINE",
-"488 1043 LINE",
-"707 1043 LINE SMOOTH"
+"874 1043 OFFCURVE",
+"960 982 OFFCURVE",
+"960 872 CURVE SMOOTH",
+"960 715 OFFCURVE",
+"849 617 OFFCURVE",
+"631 617 CURVE SMOOTH",
+"423 617 LINE",
+"498 1043 LINE",
+"717 1043 LINE SMOOTH"
 );
 }
 );
@@ -3427,7 +3427,7 @@ unicode = 0052;
 },
 {
 glyphname = Racute;
-lastChange = "2014-11-23 02:38:25 +0000";
+lastChange = "2015-01-02 01:53:01 +0000";
 layers = (
 {
 components = (
@@ -3437,7 +3437,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, 0, 270}";
+transform = "{1, 0, 0, 1, 10, 270}";
 }
 );
 layerId = UUID0;
@@ -3449,7 +3449,7 @@ unicode = 0154;
 },
 {
 glyphname = Rcaron;
-lastChange = "2014-11-23 02:38:25 +0000";
+lastChange = "2015-01-02 01:53:03 +0000";
 layers = (
 {
 components = (
@@ -3459,7 +3459,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = caron;
-transform = "{1, 0, 0, 1, 15, 260}";
+transform = "{1, 0, 0, 1, 25, 260}";
 }
 );
 layerId = UUID0;
@@ -3471,7 +3471,7 @@ unicode = 0158;
 },
 {
 glyphname = Rcommaaccent;
-lastChange = "2014-11-23 02:38:25 +0000";
+lastChange = "2015-01-02 01:53:05 +0000";
 layers = (
 {
 components = (
@@ -3481,7 +3481,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = commaaccent;
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, 30, 0}";
 }
 );
 layerId = UUID0;
@@ -18877,5 +18877,5 @@ UUID0 = {
 };
 };
 versionMajor = 3;
-versionMinor = 3;
+versionMinor = 4;
 }
