@@ -9,7 +9,9 @@
 	</dict>
 		<key>UUID0</key>
 		<dict>
-	</dict>
+			<key>HV</key>
+			<integer>72</integer>
+		</dict>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>UUID0</string>
@@ -399,9 +401,11 @@
 		<string>daggerdbl</string>
 		<string>minute</string>
 		<string>second</string>
+		<string>bar.double</string>
 		<string>acute</string>
 		<string>breve</string>
 		<string>caron</string>
+		<string>caron.alt</string>
 		<string>acute.case</string>
 		<string>breve.case</string>
 		<string>caron.case</string>
