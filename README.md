@@ -1,8 +1,8 @@
 # Highland Code
 
-Highland Code is a code-optimized version of [Highland Sans](https://github.com/quoteunquoteapps/HighlandSans), with tweaks and features designed for programming.
+Highland Code is the code-optimized version of [Highland Sans](https://github.com/quoteunquoteapps/HighlandSans), with tweaks and features designed for programming.
 
-## Notable differences from Highland Sans
+### Notable differences from Highland Sans
 
 - Slashed zero
 - Lower, larger asterisk
