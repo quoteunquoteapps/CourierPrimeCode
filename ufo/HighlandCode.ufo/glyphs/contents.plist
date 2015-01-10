@@ -266,8 +266,6 @@
 	<string>acircumflex.glif</string>
 	<key>acute</key>
 	<string>acute.glif</string>
-	<key>acute.alt</key>
-	<string>acute.alt.glif</string>
 	<key>acute.case</key>
 	<string>acute.case.glif</string>
 	<key>adieresis</key>
@@ -480,8 +478,6 @@
 	<string>germandbls.glif</string>
 	<key>grave</key>
 	<string>grave.glif</string>
-	<key>grave.alt</key>
-	<string>grave.alt.glif</string>
 	<key>grave.case</key>
 	<string>grave.case.glif</string>
 	<key>greater</key>
@@ -520,6 +516,8 @@
 	<string>icircumflex.glif</string>
 	<key>idieresis</key>
 	<string>idieresis.glif</string>
+	<key>idotaccent</key>
+	<string>idotaccent.glif</string>
 	<key>igrave</key>
 	<string>igrave.glif</string>
 	<key>ij</key>
@@ -728,6 +726,8 @@
 	<string>six.glif</string>
 	<key>slash</key>
 	<string>slash.glif</string>
+	<key>softhyphen</key>
+	<string>softhyphen.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
 	<key>sterling</key>

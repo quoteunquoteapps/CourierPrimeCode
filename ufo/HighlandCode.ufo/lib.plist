@@ -193,6 +193,7 @@
 		<string>ibreve</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
+		<string>idotaccent</string>
 		<string>igrave</string>
 		<string>ij</string>
 		<string>imacron</string>
@@ -342,6 +343,7 @@
 		<string>endash</string>
 		<string>hyphen</string>
 		<string>nonbreakinghyphen</string>
+		<string>softhyphen</string>
 		<string>guillemetleft</string>
 		<string>guillemetright</string>
 		<string>guilsinglleft</string>
@@ -402,8 +404,6 @@
 		<string>minute</string>
 		<string>second</string>
 		<string>acute</string>
-		<string>acute.alt</string>
-		<string>grave.alt</string>
 		<string>breve</string>
 		<string>caron</string>
 		<string>caron.alt</string>
