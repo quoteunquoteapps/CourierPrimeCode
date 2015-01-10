@@ -21,7 +21,7 @@ name = openTypeOS2VendorID;
 value = QUQA;
 }
 );
-date = "2015-01-10 03:46:09 +0000";
+date = "2015-01-10 07:01:07 +0000";
 designer = "Alan Dague-Greene";
 designerURL = "http://basicrecipe.com";
 familyName = "Highland Code";
@@ -73,9 +73,9 @@ alignmentZones = (
 "{0, -22}",
 "{-388, -22}"
 );
-ascender = 1521;
+ascender = 1621;
 capHeight = 1187;
-descender = "-743";
+descender = "-643";
 guideLines = (
 {
 position = "{-53, -388}";

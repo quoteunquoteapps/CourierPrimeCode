@@ -73,9 +73,9 @@ alignmentZones = (
 "{0, -22}",
 "{-388, -22}"
 );
-ascender = 1521;
+ascender = 1621;
 capHeight = 1187;
-descender = "-743";
+descender = "-643";
 guideLines = (
 {
 position = "{49, 1312}";
@@ -19128,7 +19128,9 @@ keepAlternatesTogether = 1;
 instances = (
 {
 interpolationWeight = 150;
-name = Regular;
+isItalic = 1;
+linkStyle = Regular;
+name = Italic;
 }
 );
 manufacturer = "Quote-Unquote Apps";
