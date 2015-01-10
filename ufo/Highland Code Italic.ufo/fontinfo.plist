@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
-	<integer>1521</integer>
+	<integer>1621</integer>
 	<key>capHeight</key>
 	<integer>1187</integer>
 	<key>copyright</key>
 	<string>Copyright (c) 2015 Quote-Unquote Apps.</string>
 	<key>descender</key>
-	<integer>-743</integer>
+	<integer>-643</integer>
 	<key>familyName</key>
 	<string>Highland Code</string>
 	<key>italicAngle</key>
@@ -133,7 +133,7 @@ OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN T
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Highland Code</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Regular</string>
+	<string>Italic</string>
 	<key>openTypeOS2VendorID</key>
 	<string>QUQA</string>
 	<key>openTypeOS2WeightClass</key>
@@ -157,9 +157,9 @@ OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN T
 		<integer>-388</integer>
 	</array>
 	<key>styleMapStyleName</key>
-	<string>regular</string>
+	<string>italic</string>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string>Italic</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>versionMajor</key>
