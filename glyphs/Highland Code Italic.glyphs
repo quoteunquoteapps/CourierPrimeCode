@@ -19,9 +19,13 @@ value = "Copyright (c) 2015\012Quote-Unquote Apps (http://quoteunquoteapps.com)\
 {
 name = openTypeOS2VendorID;
 value = QUQA;
+},
+{
+name = isFixedPitch;
+value = 1;
 }
 );
-date = "2015-01-12 14:48:10 +0000";
+date = "2015-01-12 17:22:34 +0000";
 designer = "Alan Dague-Greene";
 designerURL = "http://basicrecipe.com";
 familyName = "Highland Code";
@@ -19820,5 +19824,5 @@ HV = 72;
 };
 };
 versionMajor = 3;
-versionMinor = 11;
+versionMinor = 12;
 }
