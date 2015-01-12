@@ -21,7 +21,7 @@ name = openTypeOS2VendorID;
 value = QUQA;
 }
 );
-date = "2015-01-12 05:19:48 +0000";
+date = "2015-01-12 14:48:05 +0000";
 designer = "Alan Dague-Greene";
 designerURL = "http://basicrecipe.com";
 familyName = "Highland Code";
@@ -18888,5 +18888,5 @@ UUID0 = {
 };
 };
 versionMajor = 3;
-versionMinor = 10;
+versionMinor = 11;
 }

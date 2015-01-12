@@ -87,7 +87,3 @@ sub tilde by tilde.case;
 sub commaaccent by commaaccent.case;
 } case;
 
-feature liga {
-sub underscore f by underscore_f;
-} liga;
-
