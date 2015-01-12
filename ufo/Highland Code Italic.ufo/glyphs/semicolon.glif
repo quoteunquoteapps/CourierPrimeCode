@@ -3,7 +3,15 @@
   <advance width="1228"/>
   <unicode hex="003B"/>
   <outline>
-    <component base="period" xOffset="112" yOffset="630"/>
-    <component base="comma"/>
+    <component base="comma" xOffset="40"/>
+    <component base="period.squat" xOffset="111" yOffset="630"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>
