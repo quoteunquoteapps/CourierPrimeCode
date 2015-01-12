@@ -518,6 +518,8 @@
 	<string>icircumflex.glif</string>
 	<key>idieresis</key>
 	<string>idieresis.glif</string>
+	<key>idotaccent</key>
+	<string>idotaccent.glif</string>
 	<key>igrave</key>
 	<string>igrave.glif</string>
 	<key>ij</key>
@@ -780,6 +782,8 @@
 	<string>umacron.glif</string>
 	<key>underscore</key>
 	<string>underscore.glif</string>
+	<key>underscore_f</key>
+	<string>underscore_f.glif</string>
 	<key>uogonek</key>
 	<string>uogonek.glif</string>
 	<key>uring</key>

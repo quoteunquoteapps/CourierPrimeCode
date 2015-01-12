@@ -193,6 +193,7 @@
 		<string>ibreve</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
+		<string>idotaccent</string>
 		<string>igrave</string>
 		<string>ij</string>
 		<string>imacron</string>
@@ -353,6 +354,7 @@
 		<string>quoteleft</string>
 		<string>quoteright</string>
 		<string>quotesinglbase</string>
+		<string>underscore_f</string>
 		<string>space</string>
 		<string>nbspace</string>
 		<string>cent</string>

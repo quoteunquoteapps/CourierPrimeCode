@@ -28,7 +28,7 @@ familyName = "Highland Code";
 featurePrefixes = (
 {
 automatic = 1;
-code = "languagesystem DFLT dflt;\012languagesystem grek dflt;\012languagesystem latn dflt;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn CAT;\012";
+code = "languagesystem DFLT dflt;\012languagesystem grek dflt;\012languagesystem latn dflt;\012languagesystem latn CAT;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn TRK;\012";
 name = Languagesystems;
 }
 );
@@ -40,7 +40,7 @@ name = aalt;
 },
 {
 automatic = 1;
-code = "script latn;\012language ROM;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language MOL;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language CAT;\012sub  l' periodcentered' l by ldot;\012sub  L' periodcentered' L by Ldot;\012";
+code = "script latn;\012language CAT;\012sub  l' periodcentered' l by ldot;\012sub  L' periodcentered' L by Ldot;\012language ROM;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language MOL;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language KAZ;\012sub i by idotaccent;\012language TAT;\012sub i by idotaccent;\012language TRK;\012sub i by idotaccent;\012language CRT;\012sub i by idotaccent;\012language AZE;\012sub i by idotaccent;\012";
 name = locl;
 },
 {
@@ -62,6 +62,10 @@ name = ordn;
 automatic = 1;
 code = "sub acute by acute.case;\012sub breve by breve.case;\012sub caron by caron.case;\012sub cedilla by cedilla.case;\012sub circumflex by circumflex.case;\012sub dieresis by dieresis.case;\012sub dotaccent by dotaccent.case;\012sub grave by grave.case;\012sub hungarumlaut by hungarumlaut.case;\012sub macron by macron.case;\012sub ogonek by ogonek.case;\012sub ring by ring.case;\012sub tilde by tilde.case;\012sub commaaccent by commaaccent.case;\012";
 name = case;
+},
+{
+code = "sub underscore f by underscore_f;\012";
+name = liga;
 }
 );
 fontMaster = (
@@ -7106,6 +7110,27 @@ width = 1228;
 }
 );
 unicode = 00EF;
+},
+{
+glyphname = idotaccent;
+lastChange = "2015-01-12 05:49:59 +0000";
+layers = (
+{
+components = (
+{
+name = dotlessi;
+transform = "{1, 0, 0, 1, 0, 0}";
+},
+{
+name = dotaccent;
+transform = "{1, 0, 0, 1, -60, 0}";
+}
+);
+layerId = UUID0;
+name = "Regular Italic";
+width = 1228;
+}
+);
 },
 {
 glyphname = igrave;
@@ -15209,6 +15234,93 @@ width = 1228;
 }
 );
 unicode = 201A;
+},
+{
+glyphname = underscore_f;
+lastChange = "2015-01-12 05:49:59 +0000";
+layers = (
+{
+layerId = UUID0;
+leftMetricsKey = "=underscore";
+rightMetricsKey = "=f.alt";
+name = "Regular Italic";
+paths = (
+{
+closed = 1;
+nodes = (
+"1996 1317 OFFCURVE",
+"1855 1186 OFFCURVE",
+"1816 967 CURVE SMOOTH",
+"1587 -333 LINE SMOOTH",
+"1579 -379 OFFCURVE",
+"1594 -398 OFFCURVE",
+"1650 -398 CURVE SMOOTH",
+"1652 -398 LINE SMOOTH",
+"1705 -398 OFFCURVE",
+"1729 -379 OFFCURVE",
+"1737 -333 CURVE SMOOTH",
+"1964 954 LINE SMOOTH",
+"1988 1091 OFFCURVE",
+"2063 1171 OFFCURVE",
+"2204 1171 CURVE SMOOTH",
+"2283 1171 OFFCURVE",
+"2360 1153 OFFCURVE",
+"2432 1124 CURVE SMOOTH",
+"2464 1111 OFFCURVE",
+"2495 1119 OFFCURVE",
+"2514 1174 CURVE SMOOTH",
+"2532 1225 OFFCURVE",
+"2510 1252 OFFCURVE",
+"2477 1266 CURVE SMOOTH",
+"2402 1297 OFFCURVE",
+"2314 1317 OFFCURVE",
+"2220 1317 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"-18 -249 LINE SMOOTH",
+"-33 -249 OFFCURVE",
+"-44 -261 OFFCURVE",
+"-54 -321 CURVE SMOOTH",
+"-65 -381 OFFCURVE",
+"-59 -393 OFFCURVE",
+"-44 -393 CURVE SMOOTH",
+"1193 -393 LINE SMOOTH",
+"1208 -393 OFFCURVE",
+"1218 -381 OFFCURVE",
+"1229 -321 CURVE SMOOTH",
+"1239 -261 OFFCURVE",
+"1234 -249 OFFCURVE",
+"1219 -249 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"1596 844 LINE SMOOTH",
+"1551 844 OFFCURVE",
+"1530 824 OFFCURVE",
+"1521 772 CURVE SMOOTH",
+"1511 720 OFFCURVE",
+"1526 700 OFFCURVE",
+"1571 700 CURVE SMOOTH",
+"2265 700 LINE SMOOTH",
+"2310 700 OFFCURVE",
+"2331 720 OFFCURVE",
+"2341 772 CURVE SMOOTH",
+"2350 824 OFFCURVE",
+"2335 844 OFFCURVE",
+"2290 844 CURVE SMOOTH"
+);
+}
+);
+width = 2456;
+}
+);
+leftMetricsKey = "=underscore";
+rightMetricsKey = "=f.alt";
 },
 {
 glyphname = space;
