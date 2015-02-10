@@ -1,6 +1,6 @@
 # Courier Prime Source
 
-Courier Prime Source is the code-optimized version of [Highland Sans](https://github.com/quoteunquoteapps/HighlandSans), with tweaks and features designed for programming.
+Courier Prime Source is the code-optimized version of [Courier Prime Sans](https://github.com/quoteunquoteapps/Courier-Prime-Sans), with tweaks and features designed for programming.
 
 ### Notable differences from Courier Prime Source
 
