@@ -1,8 +1,8 @@
-# Highland Code
+# Courier Prime Source
 
-Highland Code is the code-optimized version of [Highland Sans](https://github.com/quoteunquoteapps/HighlandSans), with tweaks and features designed for programming.
+Courier Prime Source is the code-optimized version of [Highland Sans](https://github.com/quoteunquoteapps/HighlandSans), with tweaks and features designed for programming.
 
-### Notable differences from Highland Sans
+### Notable differences from Courier Prime Source
 
 - Slashed zero
 - Lower, larger asterisk
@@ -12,4 +12,4 @@ Highland Code is the code-optimized version of [Highland Sans](https://github.co
 ## Related repositories
 
 - [Courier Prime](https://github.com/quoteunquoteapps/CourierPrime)
-- [Highland Sans](https://github.com/quoteunquoteapps/HighlandSans)
+- [Courier Prime Sans](https://github.com/quoteunquoteapps/Courier-Prime-Sans)
