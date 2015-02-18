@@ -12,4 +12,4 @@ Courier Prime Source is the code-optimized version of [Courier Prime Sans](https
 ## Related repositories
 
 - [Courier Prime](https://github.com/quoteunquoteapps/CourierPrime)
-- [Courier Prime Sans](https://github.com/quoteunquoteapps/Courier-Prime-Sans)
+- [Courier Prime Sans](https://github.com/quoteunquoteapps/CourierPrimeSans)
