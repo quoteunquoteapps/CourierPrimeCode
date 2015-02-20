@@ -6,6 +6,7 @@ Courier Prime Source is the code-optimized version of [Courier Prime Sans](https
 
 - Slashed zero
 - Lower, larger asterisk
+- Straight-legged italic f
 - Larger line height
 - Regular and italic weights only
 
