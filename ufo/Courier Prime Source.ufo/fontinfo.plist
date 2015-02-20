@@ -11,11 +11,11 @@
 	<key>descender</key>
 	<integer>-643</integer>
 	<key>familyName</key>
-	<string>Highland Code</string>
+	<string>Courier Prime Source</string>
 	<key>isFixedPitch</key>
 	<true/>
 	<key>openTypeHeadCreated</key>
-	<string>2015/01/14 13:34:25</string>
+	<string>2015/02/20 11:14:27</string>
 	<key>openTypeNameDesigner</key>
 	<string>Alan Dague-Greene</string>
 	<key>openTypeNameDesignerURL</key>
@@ -23,7 +23,7 @@
 	<key>openTypeNameLicense</key>
 	<string>Copyright (c) 2015
 Quote-Unquote Apps (http://quoteunquoteapps.com)
-with Reserved Font Name Highland Code.
+with Reserved Font Name Courier Prime Source.
 
 This Font Software is licensed under the SIL Open Font License
 Version 1.1. This license is copied below
@@ -131,7 +131,7 @@ OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN T
 	<key>openTypeNameManufacturerURL</key>
 	<string>http://quoteunquoteapps.com</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>Highland Code</string>
+	<string>Courier Prime Source</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
 	<key>openTypeOS2VendorID</key>
@@ -175,7 +175,7 @@ OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN T
 	<key>versionMajor</key>
 	<integer>3</integer>
 	<key>versionMinor</key>
-	<integer>14</integer>
+	<integer>15</integer>
 	<key>xHeight</key>
 	<integer>924</integer>
 </dict>
