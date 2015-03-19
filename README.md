@@ -1,8 +1,8 @@
 # Courier Prime Source
 
-Courier Prime Source is the code-optimized version of [Courier Prime Sans](https://github.com/quoteunquoteapps/Courier-Prime-Sans), with tweaks and features designed for programming.
+Courier Prime Source is the code-optimized version of [Courier Prime Sans](https://github.com/quoteunquoteapps/CourierPrimeSans), with tweaks and features designed for programming.
 
-### Notable differences from Courier Prime Source
+### Notable differences from Courier Prime Sans
 
 - Slashed zero
 - Lower, larger asterisk
