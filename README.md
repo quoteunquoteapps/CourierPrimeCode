@@ -1,6 +1,6 @@
-# Courier Prime Source
+# Courier Prime Code
 
-Courier Prime Source is the code-optimized version of [Courier Prime Sans](https://github.com/quoteunquoteapps/CourierPrimeSans), with tweaks and features designed for programming.
+Courier Prime Code is the code-optimized version of [Courier Prime Sans](https://github.com/quoteunquoteapps/CourierPrimeSans), with tweaks and features designed for programming.
 
 ### Notable differences from Courier Prime Sans
 
