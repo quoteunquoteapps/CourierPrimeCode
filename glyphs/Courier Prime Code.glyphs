@@ -25,7 +25,7 @@ name = isFixedPitch;
 value = 1;
 }
 );
-date = "2015-06-15 03:34:33 +0000";
+date = "2015-10-13 05:41:23 +0000";
 designer = "Alan Dague-Greene";
 designerURL = "http://basicrecipe.com";
 familyName = "Courier Prime Code";
@@ -113,7 +113,7 @@ name = underlinePosition;
 value = "-250";
 }
 );
-descender = "-643";
+descender = -643;
 guideLines = (
 {
 position = "{-53, -388}";
@@ -15981,23 +15981,6 @@ width = 600;
 unicode = 2033;
 },
 {
-color = 4;
-glyphname = commaaccent.case;
-lastChange = "2015-01-12 05:49:38 +0000";
-layers = (
-{
-components = (
-{
-name = commaaccent;
-}
-);
-layerId = UUID0;
-name = Regular;
-width = 1228;
-}
-);
-},
-{
 glyphname = commaaccent;
 lastChange = "2015-01-12 05:49:38 +0000";
 layers = (
@@ -16030,6 +16013,23 @@ width = 1228;
 }
 );
 unicode = 0326;
+},
+{
+color = 4;
+glyphname = commaaccent.case;
+lastChange = "2015-01-12 05:49:38 +0000";
+layers = (
+{
+components = (
+{
+name = commaaccent;
+}
+);
+layerId = UUID0;
+name = Regular;
+width = 1228;
+}
+);
 },
 {
 glyphname = acute;
@@ -17318,5 +17318,5 @@ UUID0 = {
 };
 };
 versionMajor = 3;
-versionMinor = 17;
+versionMinor = 18;
 }

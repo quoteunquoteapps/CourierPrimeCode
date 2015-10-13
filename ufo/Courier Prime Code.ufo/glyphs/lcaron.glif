@@ -8,17 +8,10 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>l</string>
-        </dict>
-      </array>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
     </dict>
   </lib>
 </glyph>

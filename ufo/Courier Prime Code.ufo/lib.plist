@@ -11,14 +11,37 @@
 		</dict>
 		<key>UUID0</key>
 		<dict>
-	</dict>
+		</dict>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>UUID0</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<integer>1</integer>
 	<key>com.schriftgestaltung.weightValue</key>
-	<real>150</real>
+	<integer>150</integer>
+	<key>com.typemytype.robofont.guides</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<true/>
+			<key>x</key>
+			<integer>-53</integer>
+			<key>y</key>
+			<integer>-388</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<true/>
+			<key>x</key>
+			<integer>-45</integer>
+			<key>y</key>
+			<integer>1312</integer>
+		</dict>
+	</array>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
@@ -403,8 +426,8 @@
 		<string>daggerdbl</string>
 		<string>minute</string>
 		<string>second</string>
-		<string>commaaccent.case</string>
 		<string>commaaccent</string>
+		<string>commaaccent.case</string>
 		<string>acute</string>
 		<string>caron.alt</string>
 		<string>breve</string>

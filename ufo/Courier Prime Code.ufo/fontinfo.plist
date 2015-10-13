@@ -15,7 +15,7 @@
 	<key>isFixedPitch</key>
 	<true/>
 	<key>openTypeHeadCreated</key>
-	<string>2015/06/14 21:34:33</string>
+	<string>2015/10/12 23:41:23</string>
 	<key>openTypeHheaAscender</key>
 	<integer>1421</integer>
 	<key>openTypeHheaDescender</key>
@@ -191,7 +191,7 @@ OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN T
 	<key>versionMajor</key>
 	<integer>3</integer>
 	<key>versionMinor</key>
-	<integer>17</integer>
+	<integer>18</integer>
 	<key>xHeight</key>
 	<integer>924</integer>
 </dict>

@@ -6,7 +6,7 @@
 	<dict>
 		<key>0791FDB8-5A5D-41D7-9039-1C27D6F382A7</key>
 		<dict>
-	</dict>
+		</dict>
 		<key>UUID0</key>
 		<dict>
 			<key>HV</key>
@@ -18,7 +18,30 @@
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<integer>1</integer>
 	<key>com.schriftgestaltung.weightValue</key>
-	<real>150</real>
+	<integer>150</integer>
+	<key>com.typemytype.robofont.guides</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<true/>
+			<key>x</key>
+			<integer>49</integer>
+			<key>y</key>
+			<integer>1312</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<true/>
+			<key>x</key>
+			<integer>-250</integer>
+			<key>y</key>
+			<integer>-388</integer>
+		</dict>
+	</array>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
@@ -404,8 +427,8 @@
 		<string>minute</string>
 		<string>second</string>
 		<string>bar.double</string>
-		<string>commaaccent.case</string>
 		<string>commaaccent</string>
+		<string>commaaccent.case</string>
 		<string>acute</string>
 		<string>caron.alt</string>
 		<string>breve</string>
